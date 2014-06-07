@@ -1,0 +1,39 @@
+/* Print styles */
+
+/* Hide unnecessary parts */
+/*#top-nav, #header .accessibility, #nav, #footer .left, #footer .right .copy, #bottom ul { display: none; }
+
+body { font-size: 9pt; }
+#footer { border-top: 1px solid #000; font-size: 0.9em; margin-top: 2em; padding-top: 0.5em; }
+#bottom { font-size: 0.9em; }*/
+
+@media print {
+body {
+	width:100% !important;
+	margin:0 !important;
+	padding:0 !important;
+	line-height: 1.4;
+	word-spacing:1.1pt;
+	letter-spacing:0.2pt;
+	font-family: Arial, sans-serif;
+	color: #000;
+	background: none;
+	font-size: 12pt;
+	padding: 0;
+	float: none !important;
+
+}
+
+#i\r {                                  /* 6. */
+	display: list-item;                /* 1. */
+	list-style-image: url("/template/images/logo.gif"); /* 2. */
+	list-style-position: inside;       /* 3. */
+	letter-spacing: -1000em;           /* 4. */
+	font-size: 1pt;                    /* 5. */
+	color: #fff;                       /* 5. */
+	}
+h1 {font-size:18px; color:#000000; margin: 10px 0px;}
+#footer .left, #footer .right, #searchform  { display: none; }
+
+}
+

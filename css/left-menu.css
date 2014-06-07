@@ -1,0 +1,71 @@
+
+.sdmenu { cursor:pointer;}
+.sdmenu {
+	width: 220px;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	padding-bottom: 10px;
+	margin-left:10px;
+	padding-top:10px;
+	color: #fff;	
+}
+.sdmenu div {
+
+	overflow: hidden;text-transform:uppercase;
+	font-size: 12px;
+	
+}
+
+
+.sdmenu .title-fix a, .sdmenu .title-fix a:visited {	
+display: block;
+color: #8aa5b1; 
+text-decoration:none;
+font-size:1em;
+text-transform:uppercase; 
+padding:5px 10px;
+border-top: 1px solid #ddd; 
+font-weight:bold;	
+}
+
+.sdmenu div.collapsed {
+	height: 25px;
+	
+
+}
+.sdmenu div span {
+	display: block;
+	padding: 5px;
+	font-weight: bold;
+	color: #8aa5b1;
+    cursor: default;
+	border-top: 1px solid #ddd;	
+	border-bottom: 1px solid #ddd;
+	cursor:pointer;
+}
+
+.sdmenu div  a {
+	padding: 5px 10px;
+	margin-left:12px;
+	margin-bottom:2px;
+	margin-top:2px;
+    text-indent: 6px;
+	display: block;
+	line-height:10px;
+	color: #666666;
+	font-size:.9em;
+	text-transform:none;
+	text-decoration:none;
+	
+	}
+	
+
+.sdmenu div a:hover {
+    background:url(/template/images/bullet-arrow.gif) no-repeat left center;
+	text-decoration:none;
+	color: #f85800;
+	font-size:.9em;
+	text-decoration: none;
+	
+}
+.arrow {margin-right:6px;}

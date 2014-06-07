@@ -1,0 +1,27 @@
+html, body, div, span, applet, object, iframe, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td { border: 0; margin: 0; outline: 0; }
+:focus { outline: 0; }
+body { background: #fff; color: #5B5B5B; font-family: Arial, Helvetica, sans-serif; line-height: 1.5; z-index:0; }
+a { color: #547DC9; }
+h1 { font-size: 1.5em; }
+h2 { font-size: 1.42em; font-weight: normal; color: #0D2C7C; }
+h3 { font-size: 1.17em; }
+h4, h5, h6 { font-size: 1em; }
+p { margin: 0 0 1em 0; }
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+blockquote, q { quotes: "" ""; }
+/* ol, ul { list-style: none; } */
+dl { margin: 0 0 1em 0; }
+dt { font-weight: bold; }
+dd { margin-bottom: 1em; }
+input, select, textarea { font-family: Arial, Helvetica, sans-serif; font-size: 1em; }
+table { border-collapse: separate; font-size: 1em; }
+caption, th, td { font-weight: normal; text-align: left; }
+hr { display: none; }
+.clear { clear: both; }
