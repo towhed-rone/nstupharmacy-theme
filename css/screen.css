@@ -14,7 +14,9 @@ a.ir span { cursor: pointer; }
 #wrapper { width: 951px; margin: 0 auto; }
 
 /* Header */
-#header { height: 90px; position: relative;z-index:9999; }/* updated 08/01/2008 */
+#header { height: 53px;
+position: relative;
+z-index: 9999; }/* updated 08/01/2008 */
 #header h1 { width: 360px; height: 67px; position: absolute; top: 12px; left: 20px; }
 #header h1 span { background-image: url("/template/images/logo.jpg"); }
 #header h1 .iss { background-image: url("/template/images/logo_iss.gif"); }

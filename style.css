@@ -82,6 +82,7 @@ header .header-logo .secondary-logo span {
 header .header-info {
 	overflow: auto;
 	padding: 20px 0 0 0;
+	margin-top: 10px;
 }
 
 header .header-info form {
@@ -92,6 +93,7 @@ header .header-info form {
 header .header-info input {
 	font-size: 12px;
 	margin-right: 0;
+	
 }
 
 header .tool-bar {
@@ -554,10 +556,28 @@ ul#home-top-num-rotator a.activeSlide{
 	float: none;
 }
 .a{text-decoration: none}
-.header_logo{}
-.logo{}
-.logo{}
+.header_logo{background: #000000;}
+
+.logo{float: left;
+margin-left: 17px;}
+.header_content{}
+.header_content a{}
+margin-right: 10px;}
+.header_manue{margin-bottom: 91px;
+margin-left: 653px;}
+.header_manue ul{float: left;
+margin-left: 265px;}
+.header_manue ul li{float: left;
+padding: 8px;
+padding: 9px;}
+.header_manue ul li a{color: #F7C71C;
+padding: 4px;}
+.header_manue ul li a:hover{color:#FFF0BA}
+.nstu{}
+.screen-reader-text{float: right;}
+#header{background: #000000;}
+#nstu{color: #F9C716;
+float: left;
+margin-left: 22px;
+margin-top: 20px;}
 .header_manue{}
-.header_manue ul{}
-.header_manue ul li{}
-.header_manue ul li a{}
