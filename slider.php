@@ -104,7 +104,7 @@
 
 						<div id="latest_news" class="news_spacing">
 
-							<?php dynamic_sidebar('left_sidebar');?>
+							<?php dynamic_sidebar('slider_right_sidebar');?>
 						</div>
 
 					</div>

@@ -37,13 +37,6 @@
 						<div class="header_manue">
 							<ul>
 								<li>
-									<a href="">Calender</a>
-								</li>
-								<li>
-									<a href="">Library</a>
-								</li>
-								
-								<li>
 									<a href="">Registration</a>
 								</li>
 								
@@ -87,7 +80,6 @@
 							</ul>
 						</div>
 
-						
 					</div>
 
 				</div>
