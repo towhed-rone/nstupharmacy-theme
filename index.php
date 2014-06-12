@@ -7,7 +7,7 @@
 		</div>
 abc radio
 		<!-- /main navigation -->
-		<div id="content_alt">
+		<div id="content_alt1">
 			
 			<div id="full-content">
 				<!--- box border -->
