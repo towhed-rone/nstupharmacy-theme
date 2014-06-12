@@ -83,5 +83,9 @@
 					</div>
 
 				</div>
+			<ul class="audience-nav">
 
+
+				<?php wp_nav_menu( array( 'theme_location' => 'main-menu') ); ?>
+			</ul>
 			</header>

@@ -1,10 +1,6 @@
 <?php get_header();?>
 
-			<ul class="audience-nav">
 
-				<?php wp_nav_menu( array( 'theme_location' => 'main-menu') ); ?>
-
-			</ul>
 			<!--NSU Arew-->
 		
 
